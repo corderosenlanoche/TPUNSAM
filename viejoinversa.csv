@@ -1,0 +1,11 @@
+id_estacion,nombre_estacion,long_estacion,lat_estacion,domicilio_estacion,tipo_estacion,observaciones,horario_estacion
+1.0,Facultad de Derecho,-58477509,-34590512,Av. Pres.Figueroa Alcorta y  Juan A.Bibiloni,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+2.0,Retiro,-58374822,-34592589,Av. Dr.Jose Ramos Mejia y Del Libertador Av,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+3.0,Aduana,-58368918,-34611242,Av. Ing.Huergo y Av. Belgrano,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+4.0,Plaza Roma,-58368950,-34601721,Lavalle y Bouchard,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+5.0,Plaza Italia,-58420997,-34580127,Av. Santa Fe y Av. Sarmiento,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+6.0,Parque Lezama,-58369709,-34628301,Av Martín García e Irala,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+7.0,Obelisco,-58380990,-34605840,Av. 9 de Julio y Tte. Gral Juan Domingo Perón,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+8.0,Congreso,-58389253,-34609930,Av. Hipólito Yrigoyen y Virrey Ceballos,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+9.0,Parque Las Heras,-58407145,-34583915,Parque Las Heras,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
+10.0,Puerto Madero - UCA,-58365746,-34615551,Moreau de Justo 1500,AUTOMÁTICA,Abril 2015 (pasó de ser Manual a Automática),Estación automática: disponibilidad las 24 horas
